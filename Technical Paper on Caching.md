@@ -8,7 +8,6 @@ Caching is a key system design concept that involves storing frequently accessed
 ## Need of Caching 
   
 * In General the web applications stores data in a database.
-
 * Whenever the user request for the data , then it is fetched from the database.
 
 * Every time the user requests for the data this process will be happened.
